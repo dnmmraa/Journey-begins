@@ -1,13 +1,14 @@
 This is a list of Git Commands
 
 git init
-git status
 git add *archive*
+
+
 git commit
 git push
 git merge
 
 
 
-
 git config 
+git status
