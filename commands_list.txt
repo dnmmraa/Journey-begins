@@ -9,6 +9,9 @@ git push
 git merge
 
 
-
 git config 
 git status
+git diff
+git log
+
+git checkout 
